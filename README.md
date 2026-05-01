@@ -36,9 +36,10 @@
 ### 📊 Live Analytics
 
 <!-- DYNAMIC STATS CARDS WITH NEON TOKYONIGHT THEME -->
+<!-- DYNAMIC STATS CARDS WITH CACHE BUSTERS -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Baidya1483&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=00FF9C" alt="Baidya1483's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baidya1483&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Baidya1483&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=00FF9C&cache_seconds=86400" alt="Baidya1483's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baidya1483&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" alt="Top Languages" width="48%" />
 </p>
 
 ---
