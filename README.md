@@ -3,7 +3,7 @@
 <!-- ANIMATED TYPING HEADER -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=800&lines=M.Tech+in+Information+Technology;Researching+Explainable+AI+(XAI)+%26+LLMs;Developing+the+ECLIPSE+Algorithm;Exploring+Cognitive+Science+%26+Ethics" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=800&lines=Aspiring+Data+Scientist;B.Tech+in+CSBS;Fine-Tuning+LLMs+%26+NLP;Exploring+Explainable+AI+(XAI)" alt="Typing SVG" />
   </a>
 </p>
 
@@ -15,32 +15,33 @@
 
 ### 🚀 What I'm Up To
 
-- 🔭 Currently working on **ECLIPSE**, a hybrid machine learning algorithm.
-- 🔬 Researching **Explainable AI for Cybersecurity**, specifically for IoT intrusion detection systems.
-- 🧠 Exploring advanced implementations of **Retrieval-Augmented Generation (RAG)** and **Agentic Workflows**.
-- 🌱 Deep diving into the intersection of technology and psychology.
+- 🔭 Currently developing an end-to-end **Fake News Detection** NLP pipeline using LightGBM.
+- 🔬 Researching **Multimodal Emotion Recognition** using Whisper, Wav2Vec 2.0, and RoBERTa.
+- 💼 Previously worked as an **AI & Machine Learning Intern at Pitangent Analytics**, where I fine-tuned LLMs (TinyLlama) and built time series forecasting models.
+- 📝 Published research: *"Explainable AI-based Crop Recommendation Systems for Improving Yield Predictions"* (2025).
+- 🎓 Pursuing a B.Tech in **Computer Science and Business Systems** at Techno International New Town.
+- 🏆 Certified in **Oracle Generative AI Professional** and **Oracle Cloud Infrastructure Data Science**.
 
 ---
 
 ### 🏆 GitHub Achievements
 
 <!-- ANIMATED TROPHIES -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Baidya1483&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Baidya1483 Trophies" />
+  </a>
+</p>
+
+---
+
+### 📊 Live Analytics
+
 <!-- DYNAMIC STATS CARDS USING BACKUP SERVER -->
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Baidya1483&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=00FF9C" alt="Baidya1483's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Baidya1483&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
 </p>
----
-
-### 📊 Live Analytics
-
-<!-- DYNAMIC STATS CARDS WITH NEON TOKYONIGHT THEME -->
-<!-- DYNAMIC STATS CARDS WITH CACHE BUSTERS -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Baidya1483&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=00FF9C&cache_seconds=86400" alt="Baidya1483's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baidya1483&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" alt="Top Languages" width="48%" />
-</p>
-
 ---
 
 ### 🐍 Contribution Activity
@@ -59,9 +60,11 @@
 ### ⚡ Tech Stack
 
 <!-- HOVER-ENABLED BADGES -->
+<!-- HOVER-ENABLED BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFAA00?style=for-the-badge&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
