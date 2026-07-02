@@ -28,10 +28,8 @@
 
 <!-- ANIMATED TROPHIES -->
 <p align="center">
-  <!-- Updated source URL and added a fallback image description -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Baidya1483&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Baidya1483's GitHub Trophies: Commits, Followers, Stars, Contributions, etc." />
+  <img src="https://github-profile-trophy.vercel.app/?username=Baidya1483&theme=radical&no-frame=true&column=4&row=2&margin-w=15&margin-h=15&rank=-C,-B" alt="Baidya1483 Trophies" />
 </p>
-
 ---
 
 ### 📊 Live Analytics
