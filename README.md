@@ -87,9 +87,9 @@
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Baidya1483&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C4B5FD&icon_color=F472B6&text_color=A5A3C1&ring_color=A78BFA" alt="GitHub Stats" width="49%"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Baidya1483&layout=compact&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=A5A3C1" alt="Top Languages" width="49%"/>
-</p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Baidya1483&hide_border=true&background=0D1117&border=3D2F5E&stroke=A78BFA&ring=F472B6&fire=F9A8D4&currStreakNum=FFFFFF&sideNums=A5A3C1&currStreakLabel=C4B5FD&sideLabels=A5A3C1&dates=8B93B8" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Baidya1483&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C4B5FD&icon_color=F472B6&text_color=A5A3C1&ring_color=A78BFA" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baidya1483&layout=compact&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=A5A3C1" alt="Top Languages" width="49%"/>
 </p>
 
 ## 🐍 Contribution Graph
